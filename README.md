@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/hamza-naeem-a62a7b369"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hamza06naeem06@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-333?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hamzanaeemj&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 <p align="center">•••</p>
@@ -111,12 +111,12 @@ BFS-based friend-recommendation engine over a graph-modeled social network.
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hamzanaeemj&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanaeemj&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzanaeemj&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">•••</p>
