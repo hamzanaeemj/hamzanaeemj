@@ -109,12 +109,10 @@ BFS-based friend-recommendation engine over a graph-modeled social network.
 <p align="center">•••</p>
 
 ### GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hamzanaeemj&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanaeemj&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=hamzanaeemj&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamzanaeemj&layout=compact&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzanaeemj&hide_border=true" alt="streak stats"/>
 </p>
